@@ -1,6 +1,6 @@
 variable "github_users" {
   type    = list(string)
-  default = ["theplat", "wayne868"]
+  default = ["theplat", "wayne868", "chester-tester"]
 }
 
 variable "github_progredo_bootcamp_pat" {
