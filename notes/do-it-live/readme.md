@@ -1,4 +1,4 @@
-# Do It Live - 05/31/2024
+# [Do It Live - 05/31/2024](https://youtu.be/FoiiLzLSpLk)
 
 ## Summary:
 
