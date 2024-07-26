@@ -3,4 +3,11 @@ module "bootstrap" {
   name = "shawnb"
 }
 
-#add my modules here
+output "name" {
+  value = module.bootstrap.name
+}
+
+output "password" {
+  value = module.bootstrap.password
+  sensitive = true
+}
