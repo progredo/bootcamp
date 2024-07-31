@@ -1,11 +1,7 @@
-
-#keep
-variable "name" {
-  description = "Desired name for the IAM user"
-  type        = string
+variable "users" {
+  type = list(string)
 }
 
-#keep
 variable "password_length" {
   description = "The length of the generated password"
   type        = number
