@@ -10,3 +10,7 @@ module "s3build" {
   source = "../modules/s3build/"
 
 }
+
+module "iamrole" {
+  source = "../modules/iamrole/"
+}
